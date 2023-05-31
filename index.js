@@ -53,7 +53,7 @@ function rcon_create_packet_structure(id, type, body) {
 }
 
 /**
- * The complete Triforce, or one or more components of the Triforce.
+ * Packet structure type
  * @typedef {Object} PacketStructure
  * @property {number} size
  * @property {number} id
